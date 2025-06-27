@@ -1,0 +1,14 @@
+com\snakegame\controller\GameController.class
+com\snakegame\model\GreenFoodEffect.class
+com\snakegame\model\GoldenAppleEffect.class
+com\snakegame\enums\Direction.class
+com\snakegame\SnakeGame$1.class
+com\snakegame\config\GameConfiguration.class
+com\snakegame\model\Point.class
+com\snakegame\SnakeGame.class
+com\snakegame\model\Food.class
+com\snakegame\view\GameView.class
+com\snakegame\model\AppleEffect.class
+com\snakegame\controller\GameController$1.class
+com\snakegame\model\FoodEffect.class
+com\snakegame\enums\FoodType.class
